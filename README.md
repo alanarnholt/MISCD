@@ -1,2 +1,2 @@
 # MISCD
-Msic data sets
+Misc data sets
